@@ -1,5 +1,5 @@
 # Habit Tracker
-Sistema desenvolvido para a disciplina de Análise e Projeto Orientado a Objetos (APOO).
+Sistema desenvolvido para a Disciplina: Projeto de Desenvolvimento de Software.
 
 ## Descrição
 O Habit Tracker é um sistema voltado ao gerenciamento de hábitos pessoais. Seu objetivo é permitir que os usuários acompanhem seu progresso diário, definam metas e visualizem estatísticas, incentivando a criação de uma rotina mais organizada e saudável.
